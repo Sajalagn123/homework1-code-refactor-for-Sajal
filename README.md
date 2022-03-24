@@ -5,7 +5,11 @@ The Horiseon webpage looked nice and had a proper layout, however, the html and 
 
 I had already accidentally updated the images with the alts earlier on. I updated the webpage to Horiseon and then added the header tag as well as the nav tag in the header, replacing the div tag.
 
-I updated the section with the main content by replacing the div tag with the aritcle tag as the parent tag. Then I labeled the child tags as section instead of div.
+I updated the section with the main content by replacing the div tag with the aritcle element as the parent tag. Then I labeled the child div tags with the section element.
+
+I updated the section with the icons on the side of the article where the benefits are listed by replacing the div tags with the aside element as the parent tag. Then I replaced the child tags with the section element.
+
+I changed the div tags with the footer class to the footer tag while changing the corresponding CSS names from .footer to just footer. In addition, I also changed the CSS elements for the header, that the nav items are displayed correctly with inline CSS. The CSS class elements of .hero and .content were changed to the article and main element selectors since the and html class was removed since it is redundant. 
 
 ## Installation
 To install my project, I created a repository for it on Github. After that I cloned the repository onto my desktop. I then copied the folders from my class repository and pasted them into my folder. From there, I opened the assignments into a serperate folder.
