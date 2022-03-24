@@ -11,5 +11,7 @@ I updated the section with the icons on the side of the article where the benefi
 
 I changed the div tags with the footer class to the footer tag while changing the corresponding CSS names from .footer to just footer. In addition, I also changed the CSS elements for the header, that the nav items are displayed correctly with inline CSS. The CSS class elements of .hero and .content were changed to the article and main element selectors since the and html class was removed since it is redundant. 
 
+Removed all the classes from the aside section of the html code and replaced their CSS counter parts with the element aside and aside section. I also removed the classes next the section elements under the article tag and changed the CSS named to aritcle section since the classes were not neccesary anymore. I also simplified the CSS elements regarding the article portion of the webpage by combing element with a redundant repitition of the same CSS attributes. 
+
 ## Installation
 To install my project, I created a repository for it on Github. After that I cloned the repository onto my desktop. I then copied the folders from my class repository and pasted them into my folder. From there, I opened the assignments into a serperate folder.
