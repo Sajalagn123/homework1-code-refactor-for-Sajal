@@ -9,7 +9,7 @@ I updated the section with the main content by replacing the div tag with the ar
 
 I updated the section with the icons on the side of the article where the benefits are listed by replacing the div tags with the aside element as the parent tag. Then I replaced the child tags with the section element.
 
-I changed the div tags with the footer class to the footer tag while changing the corresponding CSS names from .footer to just footer. In addition, I also changed the CSS elements for the header, that the nav items are displayed correctly with inline CSS. The CSS class elements of .hero and .content were changed to the article and main element selectors since the and html class was removed since it is redundant. 
+I changed the div tags with the footer class to the footer tag while changing the corresponding CSS names from .footer to just footer. In addition, I also changed the CSS elements for the header so that the nav items are displayed correctly with inline CSS. The CSS class elements of .hero and .content were changed to the article and main element selectors since the html class was removed since it is redundant. 
 
 Removed all the classes from the aside section of the html code and replaced their CSS counter parts with the element aside and aside section. I also removed the classes next the section elements under the article tag and changed the CSS named to aritcle section since the classes were not neccesary anymore. I also simplified the CSS elements regarding the article portion of the webpage by combing element with a redundant repitition of the same CSS attributes. 
 
